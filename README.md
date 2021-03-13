@@ -1,4 +1,4 @@
-# Netlify With ContentFul POC
+# Netlify With ContentFul POC - By Jon D Jones 💥
 
 A simple blog listing website using data provided by ContentFul.  It uses static site generation with Next.js and its hosted in Netlify
 
